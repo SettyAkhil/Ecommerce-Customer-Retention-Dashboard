@@ -41,5 +41,4 @@ It helps analyze repeat purchases, customer satisfaction, and factors influencin
    git clone https://github.com/<your-username>/ecommerce-customer-retention-dashboard.git
 
 ## 🚀 Live Demo
-[Click Here👉]https://app.powerbi.com/view?r=eyJrIjoiNDg2NjIxOWItMjcyZS00NzRlLThkN2YtYzA3OTU4MWVlZDdhIiwidCI6ImM5MzA0OThmLTQ5MjMtNDllMS04MDc2LWYxMjU0NzZiMTVkOCJ9
-
+[Click Here👉]https://app.powerbi.com/view?r=eyJrIjoiYmI2MDhjNWYtZjdhMC00ZGZhLWE5ODgtMGZhYTY0YWMxMGY4IiwidCI6ImM5MzA0OThmLTQ5MjMtNDllMS04MDc2LWYxMjU0NzZiMTVkOCJ9
